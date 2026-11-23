@@ -1,16 +1,142 @@
 [
-{"id":"c01","posts":["IG-01","FB-01"],"head":"You are not broken.<br>You are lost in a movie.","sub":"Who is living this life?"},
-{"id":"c02","posts":["FB-11"],"head":"The next thing you buy won't fix the feeling.","sub":"Try a Sacred Pause first. One breath."},
-{"id":"c03","posts":["IG-03"],"head":"I was twelve in Kabul when soldiers took boys off the street.","sub":"Nobody stopped me. That afternoon, a law got written."},
-{"id":"c04","posts":["FB-04"],"head":"Your feed isn't a window. It's a mirror with a business model.","sub":"Movie 1: The Outrage Feed"},
-{"id":"c05","posts":["IG-06"],"head":"Step out onto a balcony above your own mind.","sub":"Down below, the thoughts are still moving. Just watch."},
-{"id":"c06","posts":["IG-13"],"head":"She hadn't stopped loving me. She had stopped waiting for me to come back into the room.","sub":"The moment I started waking up."},
-{"id":"c07","posts":["IG-14","FB-14"],"head":"If you could not work for a year, who would be left?","sub":"Movie 3: The Productivity Cult"},
-{"id":"c08","posts":["IG-17"],"head":"When did you last tell somebody the actual truth about how you are?","sub":"Movie 4: The Loneliness Nobody Admits"},
-{"id":"c09","posts":["IG-18","FB-18"],"head":"No robes. No diplomas. Just a car-audio shop and the worst year of my life.","sub":"Where I actually learned this."},
-{"id":"c10","posts":["IG-20"],"head":"That late-night scroll isn't rest. It's avoidance with a good excuse.","sub":"Movie 5: The Two A.M. Screen"},
-{"id":"c11","posts":["IG-24","FB-24"],"head":"Which of the five movies is yours?","list":["The Outrage Feed","The Comparison Machine","The Productivity Cult","The Loneliness Nobody Admits","The Two A.M. Screen"]},
-{"id":"c12","posts":["IG-25","FB-25"],"head":"Don't believe me.<br>Investigate for yourself.","sub":"Burned by self-help? Good. Stay skeptical."},
-{"id":"c13","posts":["FB-27"],"head":"I still get triggered. What changed is how long I stay lost in it.","sub":"Notice the movie. Come back sooner."},
-{"id":"c14","posts":["IG-29"],"head":"I don't think you need a new you.","sub":"Just the end of being completely fooled."}
+ {
+  "id": "c01",
+  "posts": [
+   "IG-01",
+   "FB-01"
+  ],
+  "head": "You are not broken.<br>You are lost in a movie.",
+  "sub": "Who is living this life?"
+ },
+ {
+  "id": "c02",
+  "posts": [
+   "FB-11"
+  ],
+  "head": "The next thing you buy won't fix the feeling.",
+  "sub": "Try a Sacred Pause first. One breath."
+ },
+ {
+  "id": "c03",
+  "posts": [
+   "IG-03"
+  ],
+  "head": "I was twelve in Kabul when soldiers took boys off the street.",
+  "sub": "Nobody stopped me. That afternoon, a law got written."
+ },
+ {
+  "id": "c04",
+  "posts": [
+   "FB-04"
+  ],
+  "head": "Your feed isn't a window. It's a mirror with a business model.",
+  "sub": "Movie 1: The Outrage Feed"
+ },
+ {
+  "id": "c05",
+  "posts": [
+   "IG-06"
+  ],
+  "head": "Step out onto a balcony above your own mind.",
+  "sub": "Down below, the thoughts are still moving. Just watch."
+ },
+ {
+  "id": "c06",
+  "posts": [
+   "IG-13"
+  ],
+  "head": "She hadn't stopped loving me. She had stopped waiting for me to come back into the room.",
+  "sub": "The moment I started waking up."
+ },
+ {
+  "id": "c07",
+  "posts": [
+   "IG-14",
+   "FB-14"
+  ],
+  "head": "If you could not work for a year, who would be left?",
+  "sub": "Movie 3: The Productivity Cult"
+ },
+ {
+  "id": "c08",
+  "posts": [
+   "IG-17"
+  ],
+  "head": "When did you last tell somebody the actual truth about how you are?",
+  "sub": "Movie 4: The Loneliness Nobody Admits"
+ },
+ {
+  "id": "c09",
+  "posts": [
+   "IG-18",
+   "FB-18"
+  ],
+  "head": "No robes. No diplomas. Just a car-audio shop and the worst year of my life.",
+  "sub": "Where I actually learned this."
+ },
+ {
+  "id": "c10",
+  "posts": [
+   "IG-20"
+  ],
+  "head": "That late-night scroll isn't rest. It's avoidance with a good excuse.",
+  "sub": "Movie 5: The Two A.M. Screen"
+ },
+ {
+  "id": "c11",
+  "posts": [
+   "IG-24",
+   "FB-24"
+  ],
+  "head": "Which of the five movies is yours?",
+  "list": [
+   "The Outrage Feed",
+   "The Comparison Machine",
+   "The Productivity Cult",
+   "The Loneliness Nobody Admits",
+   "The Two A.M. Screen"
+  ]
+ },
+ {
+  "id": "c12",
+  "posts": [
+   "IG-25",
+   "FB-25"
+  ],
+  "head": "Don't believe me.<br>Investigate for yourself.",
+  "sub": "Burned by self-help? Good. Stay skeptical."
+ },
+ {
+  "id": "c13",
+  "posts": [
+   "FB-27"
+  ],
+  "head": "I still get triggered. What changed is how long I stay lost in it.",
+  "sub": "Notice the movie. Come back sooner."
+ },
+ {
+  "id": "c14",
+  "posts": [
+   "IG-29"
+  ],
+  "head": "I don't think you need a new you.",
+  "sub": "Just the end of being completely fooled."
+ },
+ {
+  "id": "c15",
+  "posts": [
+   "IG-10"
+  ],
+  "head": "\"What am I like when I'm stressed?\"",
+  "sub": "Ask someone you live with. Don't explain. Just say thank you."
+ },
+ {
+  "id": "c16",
+  "posts": [
+   "IG-28",
+   "FB-28"
+  ],
+  "head": "You are not looking at a defect. You are looking at your best work, still running.",
+  "sub": "Long after the problem it solved went away."
+ }
 ]
