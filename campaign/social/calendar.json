@@ -17,18 +17,17 @@
       "id": "IG-01",
       "platform": "instagram",
       "scheduleAtPT": "2026-11-24T18:15",
-      "format": "reel",
-      "mediaKey": "V10",
+      "format": "post",
+      "mediaKey": "c01",
       "theme": "Core reframe",
       "pillar": "teaching",
       "caption": "You are not broken. You are lost in a movie.\n\nI know how that sounds. Stay with me for one breath.\n\nYou have been watching a movie for so long that you forgot it was a movie. Then, somewhere in there, you climbed into the picture and took the lead role. The worry, the comparing, the 2am replaying. It all feels like you.\n\nIt isn't. Nothing has gone wrong with you. You just forgot you were watching.\n\nThe better question isn't \"what's wrong with me?\" It's \"who is living this life?\"\n\nI wrote a short, free book about exactly this. No robes, no incense, no belief system. Just a few things to notice.\n\nGrab the free book Lost in the Movie, link in bio.\n\nHard night? 988 (US/Canada), 116 123 (UK/Ireland), findahelpline.com.\n\n#lostinthemovie #awakeningproject #selfrealization #spiritualawakening #awareness #consciousness #midlife #spiritualityforskeptics #innerpeace #whoami",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6aac7dabcdcceb9f49abe32b/47fbb08d-117a-5322-ca43-0d69b22432f1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c01.jpg"
       ],
-      "mediaNote": "Raw clip 47FBB08D (1080x1920 vertical, 59 MB, content unverified)",
+      "mediaNote": "Quote card c01 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-17T18:15",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -53,18 +52,17 @@
       "id": "FB-01",
       "platform": "facebook",
       "scheduleAtPT": "2026-11-24T19:30",
-      "format": "reel",
-      "mediaKey": "V10",
+      "format": "post",
+      "mediaKey": "c01",
       "theme": "Core reframe",
       "pillar": "teaching",
       "caption": "I want to start with something I wish someone had told me twenty years ago.\n\nYou are not broken. You are lost in a movie.\n\nMost of us have been watching a movie for so long that we forgot it was a movie. Then we climbed into the picture and took the lead role. The worry feels like us. The comparing feels like us. The 2am replaying feels like us.\n\nNothing has gone wrong with you. You just forgot you were watching.\n\nI wrote a short free book about this called Lost in the Movie. It's for people who did everything right and still feel like a stranger in their own life. No robes, no belief system. Just a few honest things to notice.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\nHard night? 988 (US/Canada), 116 123 (UK/Ireland), findahelpline.com.\n\n#lostinthemovie #awakeningproject #selfrealization #midlife #innerpeace",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6aac7dabcdcceb9f49abe32b/47fbb08d-117a-5322-ca43-0d69b22432f1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c01.jpg"
       ],
-      "mediaNote": "Raw clip 47FBB08D (1080x1920 vertical, 59 MB, content unverified)",
+      "mediaNote": "Quote card c01 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-17T19:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -122,17 +120,17 @@
       "id": "IG-10",
       "platform": "instagram",
       "scheduleAtPT": "2026-11-26T12:00",
-      "format": "reel",
-      "mediaKey": "V5",
+      "format": "post",
+      "mediaKey": "c15",
       "theme": "Noticing 3: ask the people you live with (Thanksgiving)",
       "pillar": "practice",
       "caption": "The bravest question you can ask at a holiday table isn't about politics.\n\nIt's this, asked quietly to someone you live with: \"What am I like when I'm stressed?\"\n\nThen the hard part. Don't explain. Don't defend. Just say thank you.\n\nIt may not be comfortable to hear. It may also be the most useful thing anyone tells you this year.\n\nHere's the measure I trust more than any app. The only honest measure of growth is whether you've become easier or harder to be around.\n\nWishing you a gentle Thanksgiving, whatever it holds.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #mindfulness #selfdiscovery #personalgrowth #awareness #selfinquiry #midlife #innerpeace #emptynest",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7e6cd36f417f10ed751b8/day-4-welcome-the-resistance-and-learn-from-it-1080p.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c15.jpg"
       ],
-      "mediaNote": "Day 4 Welcome the Resistance (vertical, 115 MB)",
+      "mediaNote": "Quote card c15 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-26T12:00",
-      "path": "Existing media",
+      "path": "Quote card",
       "flag": "Holiday-pinned to original date.",
       "status": "draft"
     },
@@ -150,26 +148,26 @@
       ],
       "mediaNote": "Day 4 Welcome the Resistance (vertical, 115 MB)",
       "originalScheduleAtPT": "2026-11-26T16:00",
-      "path": "Existing media",
+      "path": "Existing media: needs review",
       "flag": "Holiday-pinned to original date.",
-      "status": "draft"
+      "status": "draft",
+      "reviewNote": "long lesson, trim to under 90s"
     },
     {
       "id": "FB-11",
       "platform": "facebook",
       "scheduleAtPT": "2026-11-27T12:00",
-      "format": "reel",
-      "mediaKey": "V1",
+      "format": "post",
+      "mediaKey": "c02",
       "theme": "The Sacred Pause (Black Friday)",
       "pillar": "practice",
       "caption": "Today the whole world will tell you the next thing you buy will fix the feeling.\n\nBefore you click, try a Sacred Pause. One breath. Then ask: what would I have to feel if I didn't reach for this?\n\nYou might still buy it. That's fine. The point is to be awake for the choice. This short video walks you through it.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #meditation #mindfulness #presence",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ad7bb31f9a985d42c42dfb9/the-sacred-pause-video.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c02.jpg"
       ],
-      "mediaNote": "The-Sacred-Pause-Video.mp4 (1920x1080 landscape, 12 MB)",
+      "mediaNote": "Quote card c02 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-27T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "landscape 16:9, crops poorly for Reels/TikTok",
+      "path": "Quote card",
       "flag": "Holiday-pinned to original date.",
       "status": "draft"
     },
@@ -229,18 +227,17 @@
       "id": "IG-03",
       "platform": "instagram",
       "scheduleAtPT": "2026-11-28T19:00",
-      "format": "reel",
-      "mediaKey": "V7",
+      "format": "post",
+      "mediaKey": "c03",
       "theme": "Kabul story part 1",
       "pillar": "story",
       "caption": "I was twelve in Kabul when soldiers took boys off the street.\n\nI walked past the line of faces on my way home from school. Nobody stopped me.\n\nThat afternoon a rule got written inside me: if you are not always watching, always calculating, always three moves ahead, the people you love will be taken.\n\nHere's the hard part. It worked. It got me out. It made me a provider for six people at twenty. It built a business from a folding table.\n\nAnd thirty years later it was still running, long after the soldiers were gone.\n\nWhat rule did your younger self write to stay safe? You don't have to answer here. Just notice if one came up.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #selfrealization #personalgrowth #selfdiscovery #awareness #midlife #refugeestory #truenature #selfinquiry",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d3820762cee301632add/whatsapp-video-2026-10-08-at-7-36-34-pm.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c03.jpg"
       ],
-      "mediaNote": "Raw clip WhatsApp 2026-10-08 7.36.34 PM (vertical, 92 MB, content unverified)",
+      "mediaNote": "Quote card c03 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-19T19:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -299,18 +296,17 @@
       "id": "FB-04",
       "platform": "facebook",
       "scheduleAtPT": "2026-11-30T12:00",
-      "format": "reel",
-      "mediaKey": "V8",
+      "format": "post",
+      "mediaKey": "c04",
       "theme": "Movie 1: The Outrage Feed",
       "pillar": "teaching",
       "caption": "Your news feed isn't a window. It's a mirror with a business model.\n\nThis is the first of five movies I see people get lost in. You open the app for one minute, and twenty minutes later your jaw is tight and you're arguing with a stranger in your head.\n\nThat isn't weakness. That's how attention works. Wherever attention goes, a world seems to form around it.\n\nNext time, ask yourself one question: who exactly won?\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #mindfulness #awareness #presence",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d34bd5f4a8af43b12e2c/whatsapp-video-2026-10-08-at-6-15-46-pm.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c04.jpg"
       ],
-      "mediaNote": "Raw clip WhatsApp 2026-10-08 6.15.46 PM (vertical, 148 MB, content unverified)",
+      "mediaNote": "Quote card c04 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-20T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -369,18 +365,17 @@
       "id": "IG-06",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-01T18:30",
-      "format": "reel",
-      "mediaKey": "V1",
+      "format": "post",
+      "mediaKey": "c05",
       "theme": "Mini-practice: the balcony",
       "pillar": "practice",
       "caption": "Try this for ten seconds. Right now, wherever you are.\n\nImagine you just stepped out onto a balcony above your own mind. Down below, the thoughts are still moving. The to-do list. The conversation from Thursday. The thing you should have said.\n\nYou don't have to stop any of it. Just watch from up here.\n\nNotice something? The part of you that is watching isn't tight. It isn't worried. It's just watching.\n\nThat's the whole practice for today. Not fixing. Not improving. Just noticing there's a balcony at all.\n\nSave this and try it once tomorrow when a thought grabs you.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #mindfulness #meditation #witnessconsciousness #observethemind #presentmoment #nonduality #awareness #innerpeace #spiritualityforskeptics",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ad7bb31f9a985d42c42dfb9/the-sacred-pause-video.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c05.jpg"
       ],
-      "mediaNote": "The-Sacred-Pause-Video.mp4 (1920x1080 landscape, 12 MB)",
+      "mediaNote": "Quote card c05 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-22T18:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "landscape 16:9, crops poorly for Reels/TikTok",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -592,54 +587,51 @@
       "id": "IG-13",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-06T19:00",
-      "format": "reel",
-      "mediaKey": "V9",
+      "format": "post",
+      "mediaKey": "c06",
       "theme": "Story: the moment with my wife",
       "pillar": "story",
       "caption": "My wife looked at me across a room and I realized she had stopped waiting for me to come back.\n\nNot stopped loving me. Stopped expecting me to actually be there.\n\nI was in the room. I was providing. I was doing everything right. And I was completely gone, three moves ahead, running the old rule from Kabul in my own living room.\n\nThat look did what no book had done. It made me ask, for the first time, who is living this life?\n\nThe practice I eventually found gave me my family back. Not overnight. Not perfectly. But really.\n\nIf someone has stopped waiting for you to come back, this is for you.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #midlife #menover40 #selfrealization #awareness #personalgrowth #selfdiscovery #midlifemeaning #truenature",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ab5895e62cf5c67d4cbdcdb/236feb35-01c9-f752-9684-ad6323e2ee92.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c06.jpg"
       ],
-      "mediaNote": "Raw clip 236FEB35 (720x1280 vertical, 105 MB, content unverified)",
+      "mediaNote": "Quote card c06 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-29T19:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
       "id": "FB-14",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-07T07:30",
-      "format": "reel",
-      "mediaKey": "V6",
+      "format": "post",
+      "mediaKey": "c07",
       "theme": "Movie 3: The Productivity Cult",
       "pillar": "teaching",
       "caption": "If you could not work for a year, who would be left?\n\nMovie number three is the Productivity Cult. \"I am what I produce.\" It's why the promotion didn't do what promotions were supposed to. It's why a week off feels like falling. And now there's the fear that a machine will do what you do.\n\nYou are not your output. You can check that for yourself, the next time you rest and feel guilty about it.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #burnout #over40 #mentalwellbeing",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d6f7d5f4a8af43b19e6e/day-3-picture-the-path-not-just-the-prize-1080p-1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c07.jpg"
       ],
-      "mediaNote": "Day 3 Picture the Path, Not Just the Prize (vertical, 238 MB, trim before posting)",
+      "mediaNote": "Quote card c07 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-30T07:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "long lesson, trim to under 90s",
+      "path": "Quote card",
       "status": "draft"
     },
     {
       "id": "IG-14",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-07T12:00",
-      "format": "reel",
-      "mediaKey": "V6",
+      "format": "post",
+      "mediaKey": "c07",
       "theme": "Movie 3: The Productivity Cult",
       "pillar": "teaching",
       "caption": "If you could not work for a year, who would be left?\n\nRead that again slowly and notice what your body does.\n\nMovie number three is the Productivity Cult. \"I am what I produce.\" It's the reason the promotion didn't do what promotions were supposed to do. It's the reason a week off feels like falling.\n\nAnd now there's a new layer. The fear that a machine will do what you do. If you are what you produce, that fear goes all the way down.\n\nYou are not your output. That isn't a slogan. It's something you can check for yourself, the next time you rest and feel guilty about it.\n\nMonday reminder: you are allowed to be a person before you are a resume.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #burnoutrecovery #midlife #midlifemeaning #mentalclarity #personalgrowth #selfdiscovery #whoami #menover40",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d6f7d5f4a8af43b19e6e/day-3-picture-the-path-not-just-the-prize-1080p-1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c07.jpg"
       ],
-      "mediaNote": "Day 3 Picture the Path, Not Just the Prize (vertical, 238 MB, trim before posting)",
+      "mediaNote": "Quote card c07 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-11-30T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "long lesson, trim to under 90s",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -751,18 +743,17 @@
       "id": "IG-17",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-10T19:00",
-      "format": "reel",
-      "mediaKey": "V10",
+      "format": "post",
+      "mediaKey": "c08",
       "theme": "Movie 4: The Loneliness Nobody Admits",
       "pillar": "teaching",
       "caption": "Men in their 40s and 50s: who could you call at 2am?\n\nNot to fix anything. Just to tell the truth.\n\nThis is movie number four, the Loneliness Nobody Admits. A lot of men I know have colleagues, clients, a wife, kids, a group chat about sports. And not one person they could call when it's dark.\n\nHere's the question from the book: when did you last tell somebody the actual truth about how you are?\n\nIf a name came to mind, send them a text tonight. Just \"thinking of you.\" That's enough to start.\n\nIf tonight is a hard night, please reach out: 988 (US/Canada), 116 123 (UK/Ireland), or findahelpline.com anywhere else. This is not therapy and not a substitute for a doctor.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #menover40 #midlife #midlifecrisis #mentalclarity #personalgrowth #selfdiscovery #awareness #innerpeace",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6aac7dabcdcceb9f49abe32b/47fbb08d-117a-5322-ca43-0d69b22432f1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c08.jpg"
       ],
-      "mediaNote": "Raw clip 47FBB08D (1080x1920 vertical, 59 MB, content unverified)",
+      "mediaNote": "Quote card c08 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-03T19:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -784,36 +775,34 @@
       "id": "FB-18",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-11T12:00",
-      "format": "reel",
-      "mediaKey": "V7",
+      "format": "post",
+      "mediaKey": "c09",
       "theme": "Story: the flea-market table",
       "pillar": "story",
       "caption": "No robes. No diplomas. Just a car-audio shop and the worst year of my life.\n\nI started with a folding table at a flea market. Fifteen years later it was multiple locations. For a refugee and a college dropout, that business was proof I was okay. Then I lost it, and nearly my family with it.\n\nI didn't learn awareness in a monastery. I learned it in that shop, in a marriage, and on a couch at three in the morning. I wouldn't trust me either. I'm just asking you to look.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #midlife #burnout #personalgrowth",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d3820762cee301632add/whatsapp-video-2026-10-08-at-7-36-34-pm.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c09.jpg"
       ],
-      "mediaNote": "Raw clip WhatsApp 2026-10-08 7.36.34 PM (vertical, 92 MB, content unverified)",
+      "mediaNote": "Quote card c09 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-04T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
       "id": "IG-18",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-11T12:00",
-      "format": "reel",
-      "mediaKey": "V7",
+      "format": "post",
+      "mediaKey": "c09",
       "theme": "Story: the flea-market table",
       "pillar": "story",
       "caption": "No robes. No incense. No diplomas. Just a car-audio shop and the worst year of my life.\n\nI started with a folding table at a flea market. Over fifteen years it became multiple locations. I was a refugee at twelve and a college dropout at twenty, so for a long time that business was the proof that I was okay.\n\nThen I lost it. In the same stretch, I nearly lost my family.\n\nWhat I know about awareness I didn't learn in a monastery. I learned it in that shop, in a marriage, in a house with two sons, and on a living-room couch at three in the morning.\n\nI wouldn't trust me either. So I'm not asking you to. I'm asking you to look.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #midlife #burnoutrecovery #selfrealization #personalgrowth #spiritualityforskeptics #awakeningjourney #selfdiscovery",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d3820762cee301632add/whatsapp-video-2026-10-08-at-7-36-34-pm.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c09.jpg"
       ],
-      "mediaNote": "Raw clip WhatsApp 2026-10-08 7.36.34 PM (vertical, 92 MB, content unverified)",
+      "mediaNote": "Quote card c09 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-04T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -907,18 +896,17 @@
       "id": "IG-20",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-13T21:30",
-      "format": "reel",
-      "mediaKey": "V8",
+      "format": "post",
+      "mediaKey": "c10",
       "theme": "Movie 5: The Two A.M. Screen (late-night test)",
       "pillar": "teaching",
       "caption": "That thing you scroll at 1am isn't rest. It's avoidance with a good excuse.\n\nI'm not judging you. I'm describing my own couch for about a year.\n\nThis is movie number five, the Two A.M. Screen. The day is finally quiet, and the quiet is the one thing we can't stand. So we fill it.\n\nIf you're reading this late tonight, try one thing before the next swipe. Put the phone face down for one breath and ask: what would I have to feel if I didn't reach for anything?\n\nYou don't have to answer. Just let the question sit next to you.\n\nIf tonight is a hard night, please reach out: 988 (US/Canada), 116 123 (UK/Ireland), or findahelpline.com anywhere else. This is not therapy and not a substitute for a doctor.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #mindfulness #mentalclarity #presentmoment #observethemind #burnoutrecovery #midlife #awareness #innerpeace",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d34bd5f4a8af43b12e2c/whatsapp-video-2026-10-08-at-6-15-46-pm.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c10.jpg"
       ],
-      "mediaNote": "Raw clip WhatsApp 2026-10-08 6.15.46 PM (vertical, 148 MB, content unverified)",
+      "mediaNote": "Quote card c10 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-06T21:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -1045,18 +1033,17 @@
       "id": "FB-24",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-17T07:30",
-      "format": "reel",
-      "mediaKey": "V4",
+      "format": "post",
+      "mediaKey": "c11",
       "theme": "Noticing 2: pick your film",
       "pillar": "practice",
       "caption": "Pick the one of the five movies that landed hardest for you. The Outrage Feed, the Comparison Machine, the Productivity Cult, the Loneliness Nobody Admits, or the Two A.M. Screen.\n\nThen, once a day, catch yourself in it. A quiet \"I'm in that one again.\" No judgment, no fixing.\n\nYou might be surprised how much changes from simply naming it. If you feel like it, tell me in the comments which one is yours and why.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\nHard night? 988 (US/Canada), 116 123 (UK/Ireland), findahelpline.com.\n\n#lostinthemovie #awakeningproject #mindfulness #presence #selfdiscovery",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7ffdebbad531ac83c3add/day-5-bring-it-together-1080p-1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c11.jpg"
       ],
-      "mediaNote": "Day 5 Bring It Together (vertical, 254 MB, long lesson: trim to under 90s before posting)",
+      "mediaNote": "Quote card c11 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-10T07:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "long lesson, trim to under 90s",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -1081,36 +1068,34 @@
       "id": "IG-24",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-17T18:30",
-      "format": "reel",
-      "mediaKey": "V4",
+      "format": "post",
+      "mediaKey": "c11",
       "theme": "Noticing 2: pick your film",
       "pillar": "practice",
       "caption": "Which of the five movies is yours?\n\n1. The Outrage Feed\n2. The Comparison Machine\n3. The Productivity Cult\n4. The Loneliness Nobody Admits\n5. The Two A.M. Screen\n\nPick the one that landed hardest. You'll know which one, because your body already reacted when you read the list.\n\nNow, once a day, catch yourself in it. Just a quiet \"I'm in that one again.\" No judgment, no fixing.\n\nThis is the second noticing from the free book. You might be surprised how much changes from simply being able to name it.\n\nIf you want, tell me in the comments which one is yours and why.\n\nGrab the free book Lost in the Movie, link in bio.\n\nHard night? 988 (US/Canada), 116 123 (UK/Ireland), findahelpline.com.\n\n#lostinthemovie #awakeningproject #mindfulness #observethemind #selfinquiry #awareness #midlife #personalgrowth #selfdiscovery #innerpeace",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7ffdebbad531ac83c3add/day-5-bring-it-together-1080p-1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c11.jpg"
       ],
-      "mediaNote": "Day 5 Bring It Together (vertical, 254 MB, long lesson: trim to under 90s before posting)",
+      "mediaNote": "Quote card c11 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-10T18:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "long lesson, trim to under 90s",
+      "path": "Quote card",
       "status": "draft"
     },
     {
       "id": "FB-25",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-18T12:00",
-      "format": "reel",
-      "mediaKey": "V9",
+      "format": "post",
+      "mediaKey": "c12",
       "theme": "Skeptics welcome (course mention)",
       "pillar": "course",
       "caption": "If you've been burned by the self-help industry, I understand. It was built on the assumption that something is wrong with you, and it's been selling you fixes for forty years.\n\nI start from the opposite place. Nothing has gone wrong with you. You're lost in a movie.\n\nDon't believe me. I wouldn't trust me either. Investigate for yourself. That's the whole approach in the free book, and in the course if you ever want company for it.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #mindfulness #awareness #personalgrowth",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ab5895e62cf5c67d4cbdcdb/236feb35-01c9-f752-9684-ad6323e2ee92.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c12.jpg"
       ],
-      "mediaNote": "Raw clip 236FEB35 (720x1280 vertical, 105 MB, content unverified)",
+      "mediaNote": "Quote card c12 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-11T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "raw clip, content not reviewed",
+      "path": "Quote card",
       "flag": "Confirm $297 course still open after Nov 22, else waitlist wording",
       "status": "draft"
     },
@@ -1118,18 +1103,17 @@
       "id": "IG-25",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-18T12:00",
-      "format": "reel",
-      "mediaKey": "V1",
+      "format": "post",
+      "mediaKey": "c12",
       "theme": "Skeptics welcome (course mention)",
       "pillar": "course",
       "caption": "Don't believe me. I wouldn't trust me either.\n\nIf you've been burned by the self-help industry, I understand. It was built on the assumption that something is wrong with you, and it's been selling you fixes for forty years.\n\nI'm starting from the opposite place. Nothing has gone wrong with you. You're lost in a movie.\n\nYou don't have to take that on faith. Try the Sacred Pause in this video once today. One breath before you react. Then notice what happened.\n\nThat's the whole approach, in the free book and in the course: investigate for yourself.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #spiritualityforskeptics #mindfulness #meditation #awareness #presentmoment #selfrealization #mentalclarity",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ad7bb31f9a985d42c42dfb9/the-sacred-pause-video.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c12.jpg"
       ],
-      "mediaNote": "The-Sacred-Pause-Video.mp4 (1920x1080 landscape, 12 MB)",
+      "mediaNote": "Quote card c12 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-11T12:00",
-      "path": "Existing media: needs review",
-      "reviewNote": "landscape 16:9, crops poorly for Reels/TikTok",
+      "path": "Quote card",
       "flag": "Confirm $297 course still open after Nov 22, else waitlist wording",
       "status": "draft"
     },
@@ -1199,25 +1183,25 @@
       ],
       "mediaNote": "Day 4 Welcome the Resistance (vertical, 115 MB)",
       "originalScheduleAtPT": "2026-12-13T17:00",
-      "path": "Existing media",
-      "status": "draft"
+      "path": "Existing media: needs review",
+      "status": "draft",
+      "reviewNote": "long lesson, trim to under 90s"
     },
     {
       "id": "FB-27",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-20T17:30",
-      "format": "reel",
-      "mediaKey": "V1",
+      "format": "post",
+      "mediaKey": "c13",
       "theme": "Sacred Pause for the holidays",
       "pillar": "practice",
       "caption": "I still get triggered. I still say the sharp thing sometimes. What changed is the recovery time. A whole evening became twenty minutes. Some days less.\n\nAs the holidays get louder, that's what is worth practising. Not being perfect at the table. Coming back faster.\n\nThis Sacred Pause is short. You can do it with your coffee still in your hand. Try it once this week.\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #meditation #presence #mindfulness",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ad7bb31f9a985d42c42dfb9/the-sacred-pause-video.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c13.jpg"
       ],
-      "mediaNote": "The-Sacred-Pause-Video.mp4 (1920x1080 landscape, 12 MB)",
+      "mediaNote": "Quote card c13 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-13T17:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "landscape 16:9, crops poorly for Reels/TikTok",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -1241,34 +1225,34 @@
       "id": "FB-28",
       "platform": "facebook",
       "scheduleAtPT": "2026-12-21T12:30",
-      "format": "reel",
-      "mediaKey": "V5",
+      "format": "post",
+      "mediaKey": "c16",
       "theme": "Your best work still running",
       "pillar": "teaching",
       "caption": "You are not looking at a defect. You are looking at your best work, still running long after the problem it solved went away.\n\nThe vigilance. The people-pleasing. The need to be in control. Each one kept you safe once. They deserve respect, not shame. And they also deserve to be retired.\n\nThis week, notice one of them in action and say quietly: \"Thank you. I've got it from here.\"\n\nGrab the free book Lost in the Movie here: https://mindmatterspirituality.com/?utm_source=facebook&utm_medium=social&utm_campaign=lost-in-the-movie\n\n#lostinthemovie #awakeningproject #healingjourney #selfdiscovery #truenature",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7e6cd36f417f10ed751b8/day-4-welcome-the-resistance-and-learn-from-it-1080p.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c16.jpg"
       ],
-      "mediaNote": "Day 4 Welcome the Resistance (vertical, 115 MB)",
+      "mediaNote": "Quote card c16 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-14T12:30",
-      "path": "Existing media",
+      "path": "Quote card",
       "status": "draft"
     },
     {
       "id": "IG-28",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-21T15:00",
-      "format": "reel",
-      "mediaKey": "V5",
+      "format": "post",
+      "mediaKey": "c16",
       "theme": "Your best work still running",
       "pillar": "teaching",
       "caption": "You are not looking at a defect. You are looking at your best work, still running long after the problem it solved went away.\n\nThe constant vigilance. The people-pleasing. The need to be the one in control. At some point each of those kept you safe.\n\nThey deserve respect, not shame. And they also deserve to be retired.\n\nYou can't retire something you've never seen. So this week, just notice one of them in action. Say quietly, \"Thank you. I've got it from here.\"\n\nNotice what happens in your shoulders when you say it.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #selfrealization #personalgrowth #selfdiscovery #awareness #truenature #selfinquiry #burnoutrecovery #innerpeace",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7e6cd36f417f10ed751b8/day-4-welcome-the-resistance-and-learn-from-it-1080p.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c16.jpg"
       ],
-      "mediaNote": "Day 4 Welcome the Resistance (vertical, 115 MB)",
+      "mediaNote": "Quote card c16 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-14T15:00",
-      "path": "Existing media",
+      "path": "Quote card",
       "status": "draft"
     },
     {
@@ -1294,18 +1278,17 @@
       "id": "IG-29",
       "platform": "instagram",
       "scheduleAtPT": "2026-12-22T18:30",
-      "format": "reel",
-      "mediaKey": "V6",
+      "format": "post",
+      "mediaKey": "c14",
       "theme": "Course invitation 4: before the new year noise",
       "pillar": "course",
       "caption": "In about two weeks, everyone will try to sell you a new you.\n\nI'm not going to. I don't think you need a new you. I think you need to stop being completely fooled by the old movie.\n\nIf you've read Lost in the Movie and want to go further with company, Awakening Your True Self is the twelve-week course where we practise exactly that. It's $297 one time, there's no rush and no countdown timer, and it's honestly not for everybody.\n\nIf you haven't read the free book yet, please start there. It's short and it costs nothing.\n\nGrab the free book Lost in the Movie, link in bio.\n\n#lostinthemovie #awakeningproject #awakeningjourney #selfrealization #spiritualawakening #midlifemeaning #personalgrowth #mindfulness #selfinquiry",
       "mediaUrls": [
-        "https://files.leadconnectorhq.com/file/6ac7d6f7d5f4a8af43b19e6e/day-3-picture-the-path-not-just-the-prize-1080p-1.mp4"
+        "https://raw.githubusercontent.com/rameenzereh/Awakening-Project/c1c10624e04a134b063f372efeedb014071c32e7/campaign/social/cards/c14.jpg"
       ],
-      "mediaNote": "Day 3 Picture the Path, Not Just the Prize (vertical, 238 MB, trim before posting)",
+      "mediaNote": "Quote card c14 (1080x1350 JPEG), replaces unreviewed or untrimmed video",
       "originalScheduleAtPT": "2026-12-15T18:30",
-      "path": "Existing media: needs review",
-      "reviewNote": "long lesson, trim to under 90s",
+      "path": "Quote card",
       "flag": "Confirm $297 course still open after Nov 22, else waitlist wording",
       "status": "draft"
     },
