@@ -2,7 +2,7 @@
 
 Home: artifact
 
-**Window:** Tue Nov 24 to Wed Dec 23, 2026 (America/Los_Angeles). **Status:** draft, nothing staged in GHL yet.
+**Window:** Tue Nov 24 to Wed Dec 23, 2026 (America/Los_Angeles). **Status:** 51 scheduled in GHL Social Planner, 26 held (see 05-ghl-stage-log.md).
 
 **Cadence:** IG 1/day (30), FB 1/day (30), TikTok 4/week (17). 77 posts total.
 
